@@ -1,7 +1,7 @@
 clc; clear;
 
 baseName = 'vitanza_UN_p_';
-contents = fileread('vitanza_UN_base.i');
+contents = fileread('vitanza_UN_base_3.i');
 
 
 for i = 6500:1000:40000
